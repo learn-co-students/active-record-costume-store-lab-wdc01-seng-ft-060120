@@ -12,7 +12,7 @@
 
 ## Objectives
 
-:jack_o_lantern: :ghost: :jack_o_lantern:
+<!-- :jack_o_lantern: :ghost: :jack_o_lantern:
 
 In this lab, you'll be creating the following tables: `costumes`,
 `costume_stores`, and `haunted_houses`. You'll be creating the following
@@ -36,7 +36,7 @@ The `costume_stores` table will have seven columns:
   4. number of employees
   5. whether or not it's still in business
   6. opening time
-  7. closing time
+  7. closing time -->
 
 The `haunted_houses` table will have eight columns:
 
